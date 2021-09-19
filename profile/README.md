@@ -26,3 +26,9 @@
 - Redes Neuronales
 - Deep Learning
 
+[Facebook](https://www.facebook.com/DataScienceResearch)
+[Instagram](https://www.instagram.com/datasciencepe/)
+[Twitter](https://twitter.com/DataScience_Pe)
+[Discord](https://discord.gg/nAaqdb6Fpd)
+[Telegram](https://t.me/DataScienceResearchPeru)
+[Website](https://www.datascience.pe/)
